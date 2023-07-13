@@ -1,5 +1,4 @@
 
-```
 # Parkinson's Disease Prediction
 
 This project aims to predict Parkinson's disease based on a dataset containing various voice measurements. It utilizes the Logistic Regression algorithm for classification.
@@ -50,5 +49,3 @@ Feel free to use the code and dataset for research or educational purposes.
 If you have any questions or suggestions, please feel free to contact me.
 
 ```
-
-You can customize the README file as per your requirements and add more details if necessary.
